@@ -28,7 +28,7 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 - Le dépôt et son historique des modifications.
 - Le score d'accessibilité relevé.
 - ![Ce que montre la capture]({{ "/images/Site-Portfolio-Capture.png" | relative_url }})
-- - ![Ce que montre la capture]({{ "/images/mentions légales.png" | relative_url }})
+- ![Ce que montre la capture]({{ "/images/mentions légales.png" | relative_url }})
 
 
 ## Ce que j'en retiens
