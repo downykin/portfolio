@@ -28,8 +28,10 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 - ![Ce que montre la capture]({{ "/images/Site-Portfolio-Capture.png" | relative_url }})
 - ![Ce que montre la capture]({{ "/images/mentions légales.png" | relative_url }})
 - ![Ce que montre la capture]({{ "/images/depotdif.png" | relative_url }})
-![Ce que montre la capture]({{ "/images/htmlcheck.png" | relative_url }})
+- ![Ce que montre la capture]({{ "/images/htmlcheck.png" | relative_url }})
 
 ## Ce que j'en retiens
+
+- ![Ce que montre la capture]({{ "/images/lighthouse.png" | relative_url }})
 
 Remplacez cette phrase par une difficulté rencontrée et la façon dont vous l'avez réglée.
